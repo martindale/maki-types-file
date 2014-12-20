@@ -1,0 +1,26 @@
+{
+  "name": "maki-types-file",
+  "version": "0.0.0",
+  "description": "'File' type for maki resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/maki-types-file.git"
+  },
+  "keywords": [
+    "maki",
+    "file",
+    "upload",
+    "mongo",
+    "schema"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/maki-types-file/issues"
+  },
+  "homepage": "https://github.com/martindale/maki-types-file"
+}
